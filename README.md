@@ -1,1 +1,1 @@
-# namastey-react
+# Namaste React 🚀
