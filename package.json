@@ -1,0 +1,30 @@
+{
+  "name": "namastey-react",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Sarath",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganginenisarath/namastey-react.git"
+  },
+  "keywords": [],
+  "author": "Sarath Gangineni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganginenisarath/namastey-react/issues"
+  },
+  "homepage": "https://github.com/ganginenisarath/namastey-react#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
